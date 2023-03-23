@@ -4,8 +4,8 @@ st.set_page_config(page_title = "home",
                    layout = 'wide',
                    page_icon='./images/home.png')
 
-st.title ("Yolo v5 Object Deterction App")
-st.caption('this web demostrat object detection')
+st.title ("ChunHong Xiao's Image Coding Project")
+st.caption('this web is demostrating the functions')
 
 st.markdown("""
 ### this app detects objects from Images
